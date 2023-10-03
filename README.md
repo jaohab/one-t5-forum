@@ -31,3 +31,4 @@ Desenvolver um sistema de cadastro de tópicos para os usuários interagirem, on
 * `DELETE /api/topicos/{id}:` Exclui um tópico pelo ID na URL.
 
 ***
+![Badge](cms_files_10224_1673890300Prancheta_9.png)
